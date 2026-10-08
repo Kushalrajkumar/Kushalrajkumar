@@ -15,7 +15,6 @@ AI & Software Engineer | LLMs • RAG • FastAPI • AWS
 - 🎓 Graduate CSE (AI & ML) student at DBIT, Bengaluru
 - 🤖 Building AI-powered apps with LLMs, RAG, FastAPI & React
 - ☁️ Built serverless data pipelines on AWS (Lambda, S3, Athena, EventBridge)
-- 💼 Power BI Data Visualisation Intern at SRIT
 - 🎯 Open to Software Engineer, AI Engineer & ML Engineer roles
 
 ---
