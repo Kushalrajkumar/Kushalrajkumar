@@ -26,7 +26,7 @@ AI & Software Engineer | LLMs • RAG • FastAPI • AWS
 </p>
 
 <p align="left">
-<img src="https://img.shields.io/badge/Claude_API-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
@@ -40,7 +40,7 @@ AI & Software Engineer | LLMs • RAG • FastAPI • AWS
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| [AI Career Mentor](https://github.com/Kushalrajkumar/ai-career-mentor) | Resume analysis, skill-gap detection, job-role prediction & an AI mentor chatbot | FastAPI, React, Claude API, ChromaDB |
+| [AI Career Mentor](https://github.com/Kushalrajkumar/ai-career-mentor) | Resume parsing, skill-gap analysis, role prediction, learning roadmaps & a RAG chat mentor | FastAPI, React, Gemini, ChromaDB |
 | [NyayaSakhi AI](https://github.com/sakshimudrabett/nyayasakhi-ai) | Multilingual legal assistant helping rural women understand inheritance & property rights (team project) | React, TypeScript, Supabase, Gemini |
 | [RAG Chatbot](https://github.com/Kushalrajkumar/rag-chatbot) | Chatbot that answers questions from your own documents | Python, RAG |
 | [AWS Air Quality Pipeline](https://github.com/Kushalrajkumar/aws-air-quality-pipeline) | Serverless pipeline collecting OpenAQ air-quality data for Indian cities, queryable with Athena | EventBridge, Lambda, S3, Athena |
