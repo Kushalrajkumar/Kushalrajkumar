@@ -41,7 +41,7 @@ AI & Software Engineer | LLMs • RAG • FastAPI • AWS
 | Project | What it does | Stack |
 |---------|--------------|-------|
 | [AI Career Mentor](https://github.com/Kushalrajkumar/ai-career-mentor) | Resume analysis, skill-gap detection, job-role prediction & an AI mentor chatbot | FastAPI, React, Claude API, ChromaDB |
-| [NyayaSakhi](https://github.com/Kushalrajkumar/nyayasakhi-ai) | AI legal assistant | Generative AI |
+| [NyayaSakhi AI](https://github.com/sakshimudrabett/nyayasakhi-ai) | Multilingual legal assistant helping rural women understand inheritance & property rights (team project) | React, TypeScript, Supabase, Gemini |
 | [RAG Chatbot](https://github.com/Kushalrajkumar/rag-chatbot) | Chatbot that answers questions from your own documents | Python, RAG |
 | [AWS Air Quality Pipeline](https://github.com/Kushalrajkumar/aws-air-quality-pipeline) | Serverless pipeline collecting OpenAQ air-quality data for Indian cities, queryable with Athena | EventBridge, Lambda, S3, Athena |
 | [Face Recognition Attendance](https://github.com/Kushalrajkumar/face-recognition-attendance) | Marks attendance automatically using face recognition | Python |
